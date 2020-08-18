@@ -1,5 +1,5 @@
 # **Profile Card**
-Profile card with some CSS animations
+Profile card with some CSS hovering effects
 
 ### **Table of Contents**
 - Profile card with front side having image
